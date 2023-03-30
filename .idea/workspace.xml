@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67a47965-364e-4a22-8592-1eb30cff6247" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Proyecto del profe/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proyecto del profe/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proyecto del profe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proyecto del profe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proyecto del profe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parcial" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc_python_flask/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Controladores/ControladorDepartamento.py" beforeDir="false" afterPath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Controladores/ControladorDepartamento.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Controladores/ControladorEstudiante.py" beforeDir="false" afterPath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Controladores/ControladorEstudiante.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Controladores/ControladorInscripcion.py" beforeDir="false" afterPath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Controladores/ControladorInscripcion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Controladores/ControladorMateria.py" beforeDir="false" afterPath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Controladores/ControladorMateria.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Modelos/Departamento.py" beforeDir="false" afterPath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Modelos/Departamento.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Modelos/Estudiante.py" beforeDir="false" afterPath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Modelos/Estudiante.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Modelos/Inscripcion.py" beforeDir="false" afterPath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Modelos/Inscripcion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Modelos/Materia.py" beforeDir="false" afterPath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Modelos/Materia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Repositorios/RepositorioDepartamento.py" beforeDir="false" afterPath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Repositorios/RepositorioDepartamento.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Repositorios/RepositorioEstudiante.py" beforeDir="false" afterPath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Repositorios/RepositorioEstudiante.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Repositorios/RepositorioInscripcion.py" beforeDir="false" afterPath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Repositorios/RepositorioInscripcion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Repositorios/RepositorioMateria.py" beforeDir="false" afterPath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/Repositorios/RepositorioMateria.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/mc_python_flask/tutorialFUP/config.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mc_python_flask" />
+  </component>
+  <component name="ProjectId" id="2Ni6jsduUreDMDX54oJY2iFVPdf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/1 NTFS/FUP/Ing de Sistemas/SEMESTRE 9/CREDITOS 2/Repositorios/Proyecto Segundo Corte"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67a47965-364e-4a22-8592-1eb30cff6247" name="Changes" comment="" />
+      <created>1680134694172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680134694172</updated>
+    </task>
+    <servers />
+  </component>
+</project>
